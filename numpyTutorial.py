@@ -1,6 +1,8 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
+# Link to Google Doc with Tutorial Steps
+# https://docs.google.com/document/d/1PoaDXatBHnkAs-_Ze6YenVm42QPWcQ9d3BWVaMmMReY/edit?usp=sharing
 
 
 # Simple Array Definition
